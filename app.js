@@ -35,5 +35,5 @@ let bookmark = 456;
 let hasRead = true;
 
 //Test
-console.Log(firstBame + " " + lastName + " " + age + " " + language + " " + createdYear + " " + isCaseSensitive + " " + price + " " + isOnSale + " " + salePercentage);
-console.Log(stock + " " + inStock + " " + selectedSize + " " + title + " " + author + " " + pageCount + " " + bookmark + " " + hasRead)
+//console.Log(firstBame + " " + lastName + " " + age + " " + language + " " + createdYear + " " + isCaseSensitive + " " + price + " " + isOnSale + " " + salePercentage);
+//console.Log(stock + " " + inStock + " " + selectedSize + " " + title + " " + author + " " + pageCount + " " + bookmark + " " + hasRead)
